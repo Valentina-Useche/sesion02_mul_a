@@ -1,0 +1,2 @@
+- Leí la lectura de la siguiente pagina web: https://es.wikipedia.org/wiki/Sistema_de_coordenadas mencionada por el profesor.
+- Repasé las tematicas vistas en el curso de Intriduccion a la computación grafica.
